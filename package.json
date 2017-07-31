@@ -1,0 +1,25 @@
+{
+  "name": "tour-of-heroes-api",
+  "version": "1.0.0",
+  "description": "이 저장소의 코드는 [http://a-mean-blog.com/ko/blog/Node-JS-API/_/기본-API-만들기](http://a-mean-blog.com/ko/blog/Node-JS-API/_/기본-API-만들기)에서 작성되었습니다. <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-mean-blogger/tour-of-heroes-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-mean-blogger/tour-of-heroes-api/issues"
+  },
+  "homepage": "https://github.com/a-mean-blogger/tour-of-heroes-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.6"
+  }
+}
